@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arun C</h1>
 <h3 align="center">A passionate Software Developer and Data Scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hariharant2002&label=Profile%20views&color=0e75b6&style=flat" alt="hariharant2002" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Arun200502&label=Profile%20views&color=0e75b6&style=flat" alt="Arun200502" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariharant2002" alt="hariharant2002" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arun200502" alt="Arun200502" /></a> </p>
 
 - 🔭 I’m currently working on *InboxIQ (Enhanced Gmail Extension)*
 
